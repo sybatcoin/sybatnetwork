@@ -42,5 +42,5 @@
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Debug/netcoreapp3.1/Razor/Views/Solutions/Index.cshtml.g.cs
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Debug/netcoreapp3.1/Razor/Views/Support/Index.cshtml.g.cs
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Debug/netcoreapp3.1/Razor/Views/Wallet/Index.cshtml.g.cs
-/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/sybatnetwork.StaticWebAssets.xml
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/sybatnetwork
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll

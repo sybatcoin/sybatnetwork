@@ -12,6 +12,7 @@
     <None Remove="Views\Solutions\" />
     <None Remove="Views\Support\" />
     <None Remove="Views\Wallet\" />
+    <None Remove="Newtonsoft.Json" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Dev\" />
@@ -30,5 +31,8 @@
     <Content Update="Views\Home\Index.cshtml">
       <IncludeInPackage>false</IncludeInPackage>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 </Project>

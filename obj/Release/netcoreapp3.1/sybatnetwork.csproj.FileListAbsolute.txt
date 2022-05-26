@@ -44,3 +44,4 @@
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/sybatnetwork.pdb
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/sybatnetwork.genruntimeconfig.cache
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/sybatnetwork.csproj.CopyComplete
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
