@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/AntimonyIQ/.dotnet/store/|arch|/|tfm|",
+      "/Users/AntimonyIQ/.nuget/packages"
+    ]
+  }
+}
