@@ -20,7 +20,7 @@
       "outputPath": "/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/AntimonyIQ/.config/NuGet/NuGet.Config"
+        "/Users/AntimonyIQ/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
       }
     }
   }
