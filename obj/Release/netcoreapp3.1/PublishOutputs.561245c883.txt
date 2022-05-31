@@ -1,3 +1,4 @@
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/sybatnetwork
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/.DS_Store
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/css/site.css
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/favicon.ico
@@ -13,6 +14,7 @@
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/digg.png
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/exchange.png
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/explorer.png
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/facebook.png
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/instagram.png
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/logo.png
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/mac.png
@@ -21,8 +23,10 @@
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/oudrado.png
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/oudradoad.png
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/reddit_icon.png
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/saybatcoin.png
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/sbtcard.png
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/shop.png
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/tweet.png
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/twitter.png
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/web.svg
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/PubTmp/Out/wwwroot/img/whitepaper.png

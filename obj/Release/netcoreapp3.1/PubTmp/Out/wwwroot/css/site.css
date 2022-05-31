@@ -149,3 +149,6 @@ ul li, li {
   font-size: 20px;
   font-family: 'Poppins', sans-serif;
 }
+.terms * {
+  color: red;
+}

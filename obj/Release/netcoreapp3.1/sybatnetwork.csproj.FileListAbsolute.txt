@@ -16,8 +16,6 @@
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/sybatnetwork.RazorAssemblyInfo.cache
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/sybatnetwork.RazorAssemblyInfo.cs
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/staticwebassets/sybatnetwork.StaticWebAssets.Manifest.cache
-/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/staticwebassets/sybatnetwork.StaticWebAssets.xml
-/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/scopedcss/bundle/sybatnetwork.styles.css
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/sybatnetwork.TagHelpers.input.cache
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/sybatnetwork.TagHelpers.output.cache
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/sybatnetwork.RazorCoreGenerate.cache
@@ -45,3 +43,5 @@
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/sybatnetwork.genruntimeconfig.cache
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/sybatnetwork.csproj.CopyComplete
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Release/netcoreapp3.1/sybatnetwork
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Release/netcoreapp3.1/Razor/Views/Support/Legal.cshtml.g.cs

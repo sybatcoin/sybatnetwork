@@ -17,5 +17,10 @@ namespace sybatnetwork.Controllers
             ViewData["Title"] = webTitle;
             return View();
         }
+        public IActionResult Legal()
+        {
+            ViewData["Title"] = "Terms of Service";
+            return View();
+        }
     }
 }

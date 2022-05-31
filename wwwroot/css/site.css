@@ -4,6 +4,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+@font-face {
+  font-family: Neue;
+  src: url("~/fonts/NeueMachina-Regular.otf");
+}
 
 
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
@@ -148,4 +152,7 @@ ul li, li {
   color: #fff;
   font-size: 20px;
   font-family: 'Poppins', sans-serif;
+}
+.terms * {
+  color: red;
 }
