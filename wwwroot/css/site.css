@@ -159,3 +159,32 @@ ul li, li {
 .terms * {
   color: red;
 }
+.blackbox {
+  height: 720px;
+  background-color: #000000;
+  margin-top: 50px;
+  color: #E8E8E8;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+}
+#hyperledge {
+  font-size: 48px;
+  font-weight: 400;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+}
+#stbatcoin {
+  background: linear-gradient(135deg, #f89d9d 0%, #cb7ffb 100%);
+  background-blend-mode: normal;
+  font-size: 64px;
+  font-weight: 400;
+  letter-spacing: 12px;
+  font-family: 'Poppins', sans-serif;
+}
+#description {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
+}
