@@ -167,14 +167,15 @@ ul li, li {
   margin-bottom: 50px;
   display: flex;
   flex-direction: column;
+  background-image: url('img/bg_img_olympic.png');
 }
-#hyperledge {
+.hyperledge {
   font-size: 48px;
   font-weight: 400;
   color: #fff;
   font-family: 'Poppins', sans-serif;
 }
-#stbatcoin {
+.sybatcoin {
   background: linear-gradient(135deg, #f89d9d 0%, #cb7ffb 100%);
   background-blend-mode: normal;
   font-size: 64px;
@@ -188,3 +189,12 @@ ul li, li {
   font-family: 'Poppins', sans-serif;
   color: #fff;
 }
+@media only screen and (max-width: 600px) {
+  .hyperledge {
+    font-size: 30px;
+  }
+  .sybatcoin {
+    font-size: 32px;
+  }
+}
+@media only screen and (max-width: 620px) { .sybatcoin{font-size: 32px};}
