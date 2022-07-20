@@ -17,5 +17,10 @@ namespace sybatnetwork.Controllers
             ViewData["Title"] = webTitle;
             return View();
         }
+        public IActionResult Whitepaper()
+        {
+            ViewData["Title"] = "Blogs | Sybatcoin Whitepaper";
+            return View();
+        }
     }
 }

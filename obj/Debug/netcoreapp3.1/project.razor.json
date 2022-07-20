@@ -14407,6 +14407,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/Views/Blogs/Whitepaper.cshtml",
+      "TargetPath": "Views\\Blogs\\Whitepaper.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/Views/Blogs/Index.cshtml",
       "TargetPath": "Views\\Blogs\\Index.cshtml",
       "FileKind": "mvc"
@@ -14459,6 +14464,11 @@
     {
       "FilePath": "/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/Views/Blogs/QPoS.cshtml",
+      "TargetPath": "Views\\Blogs\\QPoS.cshtml",
       "FileKind": "mvc"
     },
     {
