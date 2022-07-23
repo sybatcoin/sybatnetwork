@@ -22,5 +22,10 @@ namespace sybatnetwork.Controllers
             ViewData["Title"] = "Blogs | Sybatcoin Whitepaper";
             return View();
         }
+        public IActionResult Stateless()
+        {
+            ViewData["Title"] = "Blogs | Stateless Technology";
+            return View();
+        }
     }
 }
