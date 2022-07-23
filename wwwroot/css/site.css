@@ -189,6 +189,10 @@ ul li, li {
   font-family: 'Poppins', sans-serif;
   color: #fff;
 }
+.orbitals {
+  width: 506px;
+  height: 506px;
+}
 @media only screen and (max-width: 600px) {
   .hyperledge {
     font-size: 30px;
