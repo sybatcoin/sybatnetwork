@@ -48,3 +48,4 @@
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Debug/netcoreapp3.1/Razor/Views/Blogs/Whitepaper.cshtml.g.cs
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Debug/netcoreapp3.1/Razor/Views/Blogs/QPoS.cshtml.g.cs
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Debug/netcoreapp3.1/Razor/Views/Blogs/Stateless.cshtml.g.cs
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Debug/netcoreapp3.1/Razor/Views/Education/Index.cshtml.g.cs

@@ -13,6 +13,7 @@
     <None Remove="Views\Support\" />
     <None Remove="Views\Wallet\" />
     <None Remove="Newtonsoft.Json" />
+    <None Remove="Views\Education\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Dev\" />
@@ -23,6 +24,7 @@
     <Folder Include="Views\Solutions\" />
     <Folder Include="Views\Support\" />
     <Folder Include="Views\Wallet\" />
+    <Folder Include="Views\Education\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\img\" />
