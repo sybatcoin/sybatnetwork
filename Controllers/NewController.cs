@@ -8,38 +8,32 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace sybatnetwork.Controllers
 {
-    public class EducationController : Controller
+    public class NewController : Controller
     {
         // GET: /<controller>/
-        private const string webTitle = "Education";
         public IActionResult Index()
         {
-            ViewData["Title"] = webTitle;
+            ViewData["Title"] = "What's new";
             return View();
         }
-        public IActionResult QKD()
+        public IActionResult API()
         {
-            ViewData["Title"] = "Quantum Key Distribution";
+            ViewData["Title"] = "Syabtcoin API";
             return View();
         }
-        public IActionResult QPoS()
+        public IActionResult Core()
         {
-            ViewData["Title"] = "Quantum Proof of State";
+            ViewData["Title"] = "Sybatcoin Core";
             return View();
         }
-        public IActionResult QuantumBlockchainTechnology()
+        public IActionResult QuantumBlockchain()
         {
             ViewData["Title"] = "Quantum Blockchain Technology";
             return View();
         }
-        public IActionResult QuantumChanneling()
+        public IActionResult SIS()
         {
-            ViewData["Title"] = "Quantum Channeling";
-            return View();
-        }
-        public IActionResult QuantumNetwork()
-        {
-            ViewData["Title"] = "Quantum Network";
+            ViewData["Title"] = "Secure Identification System";
             return View();
         }
     }
