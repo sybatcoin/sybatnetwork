@@ -64,3 +64,12 @@
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Debug/netcoreapp3.1/Razor/Views/New/SIS.cshtml.g.cs
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Debug/netcoreapp3.1/Razor/Views/Resources/Exchanges.cshtml.g.cs
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Debug/netcoreapp3.1/Razor/Views/Resources/Index.cshtml.g.cs
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/QRCoder.dll
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll

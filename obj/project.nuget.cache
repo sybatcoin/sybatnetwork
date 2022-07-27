@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "IRmbEKusjQFviAr2096aFV0/5dZsD+3f/VDh7yTFyuyqk94jJjr8zhJUlk1YdXIuN+uERR9lBX43zKdQ/7l5CQ==",
+  "dgSpecHash": "bJd+Adg5sKPB+GjijMGP7XOPvPuiyQ6iGCMiXVwSO7W4zKSjsa33iZ8HuRV1kCMUpsgFxgFaIiZu9hYNOJYO9Q==",
   "success": true,
   "projectFilePath": "/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/sybatnetwork.csproj",
   "expectedPackageFiles": [
-    "/Users/AntimonyIQ/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+    "/Users/AntimonyIQ/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/AntimonyIQ/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/AntimonyIQ/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/AntimonyIQ/.nuget/packages/qrcoder/1.4.3/qrcoder.1.4.3.nupkg.sha512",
+    "/Users/AntimonyIQ/.nuget/packages/system.drawing.common/5.0.3/system.drawing.common.5.0.3.nupkg.sha512",
+    "/Users/AntimonyIQ/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/AntimonyIQ/.nuget/packages/system.text.encoding.codepages/5.0.0/system.text.encoding.codepages.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

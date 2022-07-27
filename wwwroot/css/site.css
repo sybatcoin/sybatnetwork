@@ -202,3 +202,22 @@ ul li, li {
   }
 }
 @media only screen and (max-width: 620px) { .sybatcoin{font-size: 32px};}
+
+:not(:defined) {
+  visibility: hidden;
+}
+
+fast-card {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  font-size: var(--type-ramp-plus-5-font-size);
+  line-height: var(--type-ramp-plus-5-line-height);
+}
+
+#button {
+  align-self: flex-end;
+}

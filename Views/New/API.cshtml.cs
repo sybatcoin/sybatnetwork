@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.ComponentModel.DataAnnotations;
 
 namespace sybatnetwork.Views.New
 {
@@ -11,6 +12,7 @@ namespace sybatnetwork.Views.New
     {
         public void OnGet()
         {
+            
         }
     }
 }
