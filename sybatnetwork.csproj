@@ -17,6 +17,7 @@
     <None Remove="Views\New\" />
     <None Remove="Views\Resources\" />
     <None Remove="Views\Business\" />
+    <None Remove="Views\Downloads\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Dev\" />
@@ -31,6 +32,7 @@
     <Folder Include="Views\New\" />
     <Folder Include="Views\Resources\" />
     <Folder Include="Views\Business\" />
+    <Folder Include="Views\Downloads\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\img\" />

@@ -73,3 +73,4 @@
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Debug/netcoreapp3.1/Razor/Views/Downloads/Index.cshtml.g.cs
