@@ -2,7 +2,8 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "/Users/AntimonyIQ/.dotnet/store/|arch|/|tfm|",
-      "/Users/AntimonyIQ/.nuget/packages"
+      "/Users/AntimonyIQ/.nuget/packages",
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ]
   }
 }

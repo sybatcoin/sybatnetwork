@@ -321,7 +321,8 @@
     ]
   },
   "packageFolders": {
-    "/Users/AntimonyIQ/.nuget/packages/": {}
+    "/Users/AntimonyIQ/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -332,6 +333,9 @@
       "packagesPath": "/Users/AntimonyIQ/.nuget/packages/",
       "outputPath": "/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "/Users/AntimonyIQ/.nuget/NuGet/NuGet.Config"
       ],
