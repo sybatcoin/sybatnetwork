@@ -74,3 +74,6 @@
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
 /Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Debug/netcoreapp3.1/Razor/Views/Downloads/Index.cshtml.g.cs
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Debug/netcoreapp3.1/Razor/Views/New/QoKa.cshtml.g.cs
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Debug/netcoreapp3.1/Razor/Views/New/QubitnaryNumbers.cshtml.g.cs
+/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/Debug/netcoreapp3.1/Razor/Views/New/Lavender.cshtml.g.cs

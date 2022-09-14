@@ -16,9 +16,9 @@ namespace sybatnetwork.Controllers
             ViewData["Title"] = "What's new";
             return View();
         }
-        public IActionResult API()
+        public IActionResult Lavender()
         {
-            ViewData["Title"] = "Syabtcoin API";
+            ViewData["Title"] = "Syabtcoin Lavender";
             return View();
         }
         public IActionResult Core()
@@ -26,14 +26,14 @@ namespace sybatnetwork.Controllers
             ViewData["Title"] = "Sybatcoin Core";
             return View();
         }
-        public IActionResult QuantumBlockchain()
+        public IActionResult QubitnaryNumbers()
         {
-            ViewData["Title"] = "Quantum Blockchain Technology";
+            ViewData["Title"] = "Qubitnary Numbers";
             return View();
         }
-        public IActionResult SIS()
+        public IActionResult QoKa()
         {
-            ViewData["Title"] = "Secure Identification System";
+            ViewData["Title"] = "QoKa";
             return View();
         }
     }
