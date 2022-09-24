@@ -156,3 +156,4 @@ C:\Projects\sybatnetwork\obj\Debug\netcoreapp3.1\sybatnetwork.RazorTargetAssembl
 C:\Projects\sybatnetwork\obj\Debug\netcoreapp3.1\sybatnetwork.Views.pdb
 C:\Projects\sybatnetwork\obj\Debug\netcoreapp3.1\sybatnetwork.csproj.CopyComplete
 C:\Projects\sybatnetwork\obj\Debug\netcoreapp3.1\sybatnetwork.genruntimeconfig.cache
+C:\Projects\sybatnetwork\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Contact.cshtml.g.cs
