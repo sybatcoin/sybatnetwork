@@ -1,28 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/sybatnetwork.csproj": {}
+    "C:\\Projects\\sybatnetwork\\sybatnetwork.csproj": {}
   },
   "projects": {
-    "/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/sybatnetwork.csproj": {
+    "C:\\Projects\\sybatnetwork\\sybatnetwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/sybatnetwork.csproj",
+        "projectUniqueName": "C:\\Projects\\sybatnetwork\\sybatnetwork.csproj",
         "projectName": "sybatnetwork",
-        "projectPath": "/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/sybatnetwork.csproj",
-        "packagesPath": "/Users/AntimonyIQ/.nuget/packages/",
-        "outputPath": "/Users/AntimonyIQ/Projects/sybatnetwork/sybatnetwork/obj/",
+        "projectPath": "C:\\Projects\\sybatnetwork\\sybatnetwork.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\sybatnetwork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/AntimonyIQ/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,7 +61,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -68,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

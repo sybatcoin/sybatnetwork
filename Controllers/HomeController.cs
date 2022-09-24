@@ -12,8 +12,8 @@ namespace sybatnetwork.Controllers
     public class HomeController : Controller
     {
         private const string bm1 = " Sybatcoin uses quantum blockchain technology to create a ";
-        private const string bm2 = " platform that will help businesses, governments and academia ";
-        private const string bm3 = " track artificial intelligence and data. Sybatcoin is the first ever quantum-resistant blockchain. ";
+        private const string bm2 = " platform that will help businesses, governments ";
+        private const string bm3 = " and academia track financial data.";
         private const string apis = "Discover our APIs";
         private const string shops = "Get Sybatcoin";
         private const string exchanges = "Exchanges";
