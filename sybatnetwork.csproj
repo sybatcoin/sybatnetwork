@@ -44,7 +44,14 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="QRCoder" Version="1.4.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Projects\sybatnetwork\.editorconfig" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Projects\sybatnetwork\.editorconfig" />
   </ItemGroup>
 </Project>
