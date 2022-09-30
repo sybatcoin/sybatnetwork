@@ -2,16 +2,17 @@
 @model sybatnetwork.Views.Sales.ContactModel
 @{
     // let firstname = "firstname";
+
 }
 <div class="container display-4">
     <p>Contact the sales Team</p>
 </div>
 <div class="container">
-    <form method="post">
+    <form method="post" action="/Sales/Contact">
         <div class="firstname">
             <input class="input" id="firstname" name="firstname" type="text" placeholder="firstname" value="" autocomplete="on" required />
         </div>
-        <div class="lastname">
+        <div class="lastname"> 
             <input class="input" id="lastname" name="lastname" type="text" placeholder="lastname" value="" autocomplete="on" required />
         </div>
         <div class="email">
@@ -274,10 +275,10 @@
             </select>
         </div>
         <div class="message">
-            <textarea class="input" cols="30" rows="8" placeholder="Message" required></textarea>
+            <textarea class="input" cols="30" rows="8" placeholder="Message" name="Message" required></textarea>
         </div>
         <div class="submit">
-            <input class="input" id="submit" name="submit" type="submit" value="Submit" placeholder="Submit" />
+            <input class="input" id="submit" type="submit" value="Submit" placeholder="Submit" />
         </div>
     </form>
 </div>
