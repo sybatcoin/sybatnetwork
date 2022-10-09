@@ -262,3 +262,17 @@ div .input {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+.dev-card {
+  background-image: url("../img/lavender.jpeg") !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-blend-mode: color !important;;
+  padding: 50px;
+  border-radius: 8px;
+  color: #faf3f9;
+}
+@media only screen and (max-width: 768px) {
+  .dev-card {
+    padding: 10px;
+  }
+}
