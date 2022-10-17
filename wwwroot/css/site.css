@@ -271,6 +271,32 @@ div .input {
   border-radius: 8px;
   color: #faf3f9;
 }
+.selections {
+  padding: 10px;
+}
+.selections .col-md {
+  padding: 10px;
+  border: 1px solid #EEEEEE;
+  color: #000000;
+}
+.selections-card a {
+  text-decoration: none !important;
+  color: #000000;
+}
+.selections .col-md:hover, .selections .col-md:focus, .selections .col-md:active {
+  border: 1px solid #512da8;
+  background-color: #f6f0f7;
+}
+.selections-card a:hover {
+  background-color: #1861ac;
+}
+.selections-status p {
+  background-color: #FFEBEE;
+  color: #d32f2f;
+  float: left;
+  padding: 3px;
+}
+
 @media only screen and (max-width: 768px) {
   .dev-card {
     padding: 10px;
