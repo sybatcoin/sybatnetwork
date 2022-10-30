@@ -4,6 +4,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+@font-face {
+  font-family: Neue;
+  src: url("~/fonts/NeueMachina-Regular.otf");
+}
 
 
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
@@ -44,8 +48,11 @@ html {
 }
 @media (max-width: 767px) {
   .hlogo {
-    width: 372px;
-    height: 222.26px;
+    width: 352px;
+    height: 202.26px;
+  }
+  .txtr {
+    font-size: 18px;
   }
 }
 
@@ -121,11 +128,11 @@ ul li, li {
   background: linear-gradient(21deg, rgba(79,0,156,0.5) 0%, rgba(255,255,255,0.5) 100%);
   background-blend-mode: normal;
   box-shadow: 0px 2px 4px rgba(100,100,100,0.5);
-  width: 450px;
   height: 500px;
 }
 .text-center h3 {
-  font-size: 40px;
+  font-size: 25px;
+  margin-top: 50px;
   color: #000000;
   font-family: 'Inter', sans-serif;
 }
@@ -136,7 +143,7 @@ ul li, li {
 }
 .alink {
   background-color: #6200A4;
-  width: 392px;
+  width: 98%;
   height: 50px;
   padding-left: 20px;
   border-radius: 2px;
@@ -146,9 +153,152 @@ ul li, li {
 .alink a {
   text-decoration: none;
   color: #fff;
-  font-size: 20px;
+  font-size: 14px;
   font-family: 'Poppins', sans-serif;
 }
 .terms * {
   color: red;
+}
+.blackbox {
+  height: 720px;
+  background-color: #000000;
+  margin-top: 50px;
+  color: #E8E8E8;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  background-image: url('img/bg_img_olympic.png');
+}
+.hyperledge {
+  font-size: 48px;
+  font-weight: 400;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+}
+.sybatcoin {
+  background: linear-gradient(135deg, #f89d9d 0%, #cb7ffb 100%);
+  background-blend-mode: normal;
+  font-size: 64px;
+  font-weight: 400;
+  letter-spacing: 12px;
+  font-family: 'Poppins', sans-serif;
+}
+#description {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
+}
+.orbitals {
+  width: 506px;
+  height: 506px;
+}
+@media only screen and (max-width: 600px) {
+  .hyperledge {
+    font-size: 30px;
+  }
+  .sybatcoin {
+    font-size: 32px;
+  }
+}
+@media only screen and (max-width: 620px) { .sybatcoin{font-size: 32px};}
+
+:not(:defined) {
+  visibility: hidden;
+}
+
+fast-card {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  font-size: var(--type-ramp-plus-5-font-size);
+  line-height: var(--type-ramp-plus-5-line-height);
+}
+
+#button {
+  align-self: flex-end;
+}
+.firstname input, .lastname input, .email input, .organisation input, .organisation-type select, .country select, .submit input {
+  width: 99%;
+  height: 60px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  color: #000000;
+  border: 2px solid #272727;
+  padding-left: 20px;
+  font-size: 20px;
+}
+.message textarea {
+  width: 99%;
+  background-color: #ffffff;
+  border-radius: 5px;
+  color: #000000;
+  border: 2px solid #272727;
+  padding-left: 20px;
+  font-size: 20px;
+}
+.submit input {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+}
+.input:hover, .input:focus {
+  background-blend-mode: normal;
+  box-shadow: 0px 2px 4px rgba(100,100,100,0.5);
+}
+.submit input:hover, .submit input:focus {
+  background-color: #272727;
+  background-blend-mode: normal;
+  box-shadow: 0px 2px 4px rgba(100,100,100,0.5);
+}
+.firstname input:hover, .firstname input:focus {
+  background-blend-mode: normal;
+  box-shadow: 0px 2px 4px rgba(100,100,100,0.5);
+}
+div .input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.dev-card {
+  background-image: url("../img/lavender.jpeg") !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-blend-mode: color !important;;
+  padding: 50px;
+  border-radius: 8px;
+  color: #faf3f9;
+}
+.selections {
+  padding: 10px;
+}
+.selections .col-md {
+  padding: 10px;
+  border: 1px solid #EEEEEE;
+  color: #000000;
+}
+.selections-card a {
+  text-decoration: none !important;
+  color: #000000;
+}
+.selections .col-md:hover, .selections .col-md:focus, .selections .col-md:active {
+  border: 1px solid #512da8;
+  background-color: #f6f0f7;
+}
+.selections-card a:hover {
+  background-color: #1861ac;
+}
+.selections-status p {
+  background-color: #FFEBEE;
+  color: #d32f2f;
+  float: left;
+  padding: 3px;
+}
+
+@media only screen and (max-width: 768px) {
+  .dev-card {
+    padding: 10px;
+  }
 }
