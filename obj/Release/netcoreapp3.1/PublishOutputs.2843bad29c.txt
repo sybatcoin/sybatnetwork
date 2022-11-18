@@ -114,6 +114,7 @@ C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery
 C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\LICENSE.txt
 C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\whitepaper\qubitnarynumbers.pdf
 C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\whitepaper\Sybatcoin.pdf
+C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\whitepaper\whitepaper.pdf
 C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\web.config
 C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
 C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json

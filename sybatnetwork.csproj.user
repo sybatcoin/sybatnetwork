@@ -13,6 +13,6 @@
     <View_SelectedScaffolderID>RazorViewEmptyScaffolder</View_SelectedScaffolderID>
     <View_SelectedScaffolderCategoryPath>root/Common/MVC/View</View_SelectedScaffolderCategoryPath>
     <WebStackScaffolding_ViewDialogWidth>650</WebStackScaffolding_ViewDialogWidth>
-    <NameOfLastUsedPublishProfile>C:\Projects\sybatnetwork\.github\workflows\master_sybatnetwork.yml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Projects\sybatnetwork\Properties\PublishProfiles\IISProfile.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

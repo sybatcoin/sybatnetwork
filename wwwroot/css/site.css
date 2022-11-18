@@ -296,6 +296,10 @@ div .input {
   float: left;
   padding: 3px;
 }
+.sybat-solution {
+  padding-top: 50px;
+}
+
 
 @media only screen and (max-width: 768px) {
   .dev-card {
