@@ -66,6 +66,7 @@ C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\statel
 C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\sybat96.png
 C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\sybat_painting.jpeg
 C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\sybat_text.png
+C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\sybat_wallet.png
 C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\teleportation.png
 C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\tlauxo09kg581.jpeg
 C:\Projects\sybatnetwork\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\transaction.png

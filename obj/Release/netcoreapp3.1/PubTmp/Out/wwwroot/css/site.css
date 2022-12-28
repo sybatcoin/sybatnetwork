@@ -296,6 +296,21 @@ div .input {
   float: left;
   padding: 3px;
 }
+.sybat-solution {
+  padding-top: 50px;
+}
+.sybat-wallet-img {
+  margin-bottom: 50px;
+}
+.rrr {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container-fluid {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 
 @media only screen and (max-width: 768px) {
   .dev-card {
