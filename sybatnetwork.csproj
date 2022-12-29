@@ -35,7 +35,6 @@
     <Folder Include="Views\Downloads\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Remove="Views\Sales\Index.cshtml" />
     <Content Remove="wwwroot\img\" />
   </ItemGroup>
   <ItemGroup>
