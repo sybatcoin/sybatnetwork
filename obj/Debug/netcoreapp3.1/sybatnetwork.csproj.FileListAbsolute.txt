@@ -175,4 +175,7 @@ C:\Projects\sybatnetwork\obj\Debug\netcoreapp3.1\Razor\Views\Media\Index.cshtml.
 =======
 C:\Projects\sybatnetwork\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Index.cshtml.g.cs
 C:\Projects\sybatnetwork\obj\Debug\netcoreapp3.1\Razor\Views\Docs\Index.cshtml.g.cs
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
