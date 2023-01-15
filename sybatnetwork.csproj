@@ -21,7 +21,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Dev\" />
-    <Folder Include="wwwroot\img\" />
     <Folder Include="Views\Ecosystem\" />
     <Folder Include="Views\Blogs\" />
     <Folder Include="Views\Community\" />

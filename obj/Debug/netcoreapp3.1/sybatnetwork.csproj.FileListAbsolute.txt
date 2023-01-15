@@ -171,3 +171,8 @@ C:\Projects\sybatnetwork\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1
 C:\Projects\sybatnetwork\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Projects\sybatnetwork\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Projects\sybatnetwork\obj\Debug\netcoreapp3.1\Razor\Views\Media\Index.cshtml.g.cs
+<<<<<<< Updated upstream
+=======
+C:\Projects\sybatnetwork\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Index.cshtml.g.cs
+C:\Projects\sybatnetwork\obj\Debug\netcoreapp3.1\Razor\Views\Docs\Index.cshtml.g.cs
+>>>>>>> Stashed changes

@@ -263,13 +263,14 @@ div .input {
   margin-bottom: 10px;
 }
 .dev-card {
-  background-image: url("../img/lavender.jpeg") !important;
-  background-repeat: no-repeat !important;
-  background-size: cover !important;
-  background-blend-mode: color !important;;
-  padding: 50px;
-  border-radius: 8px;
-  color: #faf3f9;
+    background-image: url("../img/docsbg.jpeg") !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-blend-mode: color !important;
+    ;
+    padding: 50px;
+    border-radius: 8px;
+    color: #faf3f9;
 }
 .selections {
   padding: 10px;
